@@ -1,10 +1,8 @@
 ---
 layout: default
-title: About
+title: About Me
 ---
 
-# About
+# About Me
 
-This page describes the purpose of the website and the author.
-
-The site was created as part of an academic assignment.
+I am a 20-year-old guy, born in Madrid, Spain, and currently on Erasmus in Warsaw, Poland
