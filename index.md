@@ -5,6 +5,4 @@ title: Home
 
 # Welcome
 
-This website was created using **GitHub Pages and Jekyll**.
-
-It contains several pages demonstrating basic static site creation.
+Hi, I am Jon and I have decided to create this website about myself where I will talk about the sports I play, the languages ​​I speak, and my hobbies.
